@@ -1,0 +1,7 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "core-js": "^2.4.1"
+  }
+}
